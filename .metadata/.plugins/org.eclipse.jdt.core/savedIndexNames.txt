@@ -1,0 +1,9 @@
+INDEX VERSION 1.134+/Users/truongdinhhoainam/Workspace/at_school/hp_java_nang_cao/btl/library_manager/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+3209765998.index
+1148652967.index
+3379494296.index
+331063541.index
+3814608415.index
+576244092.index
+3430528165.index
